@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c# semaforo", "c# semaforo\c# semaforo.csproj", "{833D09D4-E01C-45AB-BC86-4F2DA2EAD53B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{833D09D4-E01C-45AB-BC86-4F2DA2EAD53B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{833D09D4-E01C-45AB-BC86-4F2DA2EAD53B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{833D09D4-E01C-45AB-BC86-4F2DA2EAD53B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{833D09D4-E01C-45AB-BC86-4F2DA2EAD53B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E0C4E95-8B60-447C-B10A-9B990987A9C8}
+	EndGlobalSection
+EndGlobal
